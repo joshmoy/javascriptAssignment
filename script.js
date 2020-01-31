@@ -15,7 +15,7 @@ function pow() {
 		alert('You have to input numbers');
 	} else {
 	let result = input**exp;
-	alert (result);
+	return (result);
 	}
 
 }
